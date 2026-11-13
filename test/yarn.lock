@@ -2112,9 +2112,9 @@ supports-color@^8.1.1:
     has-flag "^4.0.0"
 
 systeminformation@^5.31.1:
-  version "5.31.17"
-  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.31.17.tgz#60bd1cdaeb34212b5ad2410608ee47d41d2d8560"
-  integrity sha512-TvFA9iwDWlMjqZVlKIJ0Cy+Zgm9ttlMx0SMRwJDMNKyhlEKWBMb3+WRwDi/3dvHdWbexpos4Osp4U49p5WjB5g==
+  version "5.33.21"
+  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.33.21.tgz#b3f41bcd617a3641c41cd2a5bf45f3e531ec0bcc"
+  integrity sha512-bkG5ftzjV7XahdI5tTHReUeJYSJLxJOGU3QDFhTvJDBKgEOCDehcsVXYPW/NY60QqQYGv5OI+izJ6uGTVCpK2w==
 
 tar@^7.5.13:
   version "7.5.22"
